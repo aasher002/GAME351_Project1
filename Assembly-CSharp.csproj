@@ -45,8 +45,14 @@
      <Compile Include="Assets/Robot/Scripts/MovementInput.cs" />
      <Compile Include="Assets/Mountain Terrain rocks and tree/Script/Camera/CameraControl.cs" />
      <Compile Include="Assets/Mountain Terrain rocks and tree/Script/Camera/FlyCameraControl.cs" />
+     <Compile Include="Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs" />
+     <Compile Include="Assets/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs" />
+     <Compile Include="Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs" />
      <None Include="Assets/Brick Texture LITE/Documentation (Brick_Materials).txt" />
      <None Include="Assets/Robot/Textures/mixbot1.json" />
+     <None Include="Assets/AQUAS-Lite/Shaders/AQUAS-Lite_Frontface.shader" />
+     <None Include="Assets/AQUAS-Lite/Readme.txt" />
+     <None Include="Assets/AQUAS-Lite/Shaders/AQUAS-Lite_Backface.shader" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
