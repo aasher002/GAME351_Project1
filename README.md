@@ -59,5 +59,11 @@
 - Name: Mountain Terrain, Rocks and Tree
 - Source: https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-terrain-rocks-and-tree-97905
 
+- Name: Brick Textures (LITE)
+- Source: https://assetstore.unity.com/packages/2d/textures-materials/brick-textures-lite-free-289917
+
+- Name: AQUAS Lite
+- Source: https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519
+
 ## Conclusion:
 The project was completed successfully with the planned features. 
