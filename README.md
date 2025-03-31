@@ -14,7 +14,7 @@
 
 ### Choice Features:
 5. Areas of Water
-6. Crash Site
+6. Small Village
 
 ## Additions, Omissions, and Known Errata
 ### Additions:
@@ -39,6 +39,19 @@
 
 ## Rendering Pipeline:
 - Universal Render Pipeline used for better performance.
+
+## Asset Packs
+- Name: Crate
+- Source: https://assetstore.unity.com/packages/3d/props/crate-31462
+
+- Name: Anvil
+- Source: https://assetstore.unity.com/packages/3d/props/pbr-vr-ready-anvil-and-mallet-193903
+
+- Name: Barrels
+- Source: https://assetstore.unity.com/packages/3d/props/barrels-32975
+
+- Name: VILLAGE HOUSES PACK
+- Source: https://assetstore.unity.com/packages/3d/characters/village-houses-pack-63695
 
 ## Conclusion:
 The project was completed successfully with the planned features. Future improvements will focus on the castle’s texture and better camera control.
