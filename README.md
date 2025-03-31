@@ -22,7 +22,7 @@
 - Implemented camera follow mechanic.
 
 ### Omissions:
-- No small village 
+- No Crash Landing Site
 
 ### Known Errata:
 - Camera clipping during quick turns.
@@ -53,5 +53,11 @@
 - Name: VILLAGE HOUSES PACK
 - Source: https://assetstore.unity.com/packages/3d/characters/village-houses-pack-63695
 
+- Name: Polygon Trees
+- Source: https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-trees-224068
+
+- Name: Mountain Terrain, Rocks and Tree
+- Source: https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-terrain-rocks-and-tree-97905
+
 ## Conclusion:
-The project was completed successfully with the planned features. Future improvements will focus on the castle’s texture and better camera control.
+The project was completed successfully with the planned features. 
